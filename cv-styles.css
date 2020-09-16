@@ -1,0 +1,9 @@
+.mainDiv{
+    border:2px solid black;
+    max-width:1000px;
+    max-height: 1200px;
+}
+#name{
+    position: relative;
+    margin-right: 50px;
+}
