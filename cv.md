@@ -10,6 +10,6 @@ the languages i learn:
 - HTML
 - CSS
 - JAVASCRIPT
-- JAVA
+- *JAVA*
 
 my english level - A2.
